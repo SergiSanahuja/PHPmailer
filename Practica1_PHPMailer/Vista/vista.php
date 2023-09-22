@@ -41,7 +41,7 @@
 
                     </td>
                     <td>
-                        <textarea name="AreaText" id="ta" cols="30" rows="10"  value="<?php if (isset($_POST['AreaText'])) { echo htmlentities($_POST['AreaText']); } ?>" >></textarea>
+                        <textarea name="AreaText" id="ta" cols="30" rows="10"  value="<?php if (isset($_POST['AreaText'])) { echo htmlentities($_POST['AreaText']); } ?>" ></textarea>
 
                     </td>
                 </tr>
